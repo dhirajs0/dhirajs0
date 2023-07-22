@@ -1,23 +1,24 @@
 <h1 align="center">Hi , I'm Dhiraj Sah 👋</h1>
-<h3 align="center">A passionate fullstack developer from India. Currently working as Software Engineer @Samsung Research & Development, India. I did my B.Tech in Computer Science & Engineering from Indian Institute of Information Technology, Guwahati.</h3>
+<h3 align="center">A passionate fullstack developer from India. Currently working as Software Engineer @Samsung Research & Development.</h3>
+<!-- , India. I did my B.Tech in Computer Science & Engineering from Indian Institute of Information Technology, Guwahati -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <p align="left"> <a href="https://twitter.com/dhirajkr0" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajkr0?logo=twitter&style=for-the-badge" alt="dhirajkr0" /></a> </p>
 
 - 🔭 I’m currently working on [Fullstack](https://github.com/dhirajs0)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Web3**
 
-- 👯 I’m looking to collaborate on [MERN Stack Projects](https://github.com/dhirajs0)
+- 👯 I’m looking to collaborate on [Fullstack](https://github.com/dhirajs0)
 
 - 🤝 I’m looking for help with [Web3](https://github.com/dhirajs0)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhirajs0](https://github.com/dhirajs0)
 
-- 📝 I regularly write articles on [https://github.com/dhirajs0](https://github.com/dhirajs0)
+<!-- - 📝 I regularly write articles on [https://github.com/dhirajs0](https://github.com/dhirajs0) -->
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **dhiraj.kumar2990@gmail.com**
+- 📫 How to reach me **dhiraj.sah.imp@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dhirajkr/](https://www.linkedin.com/in/dhirajkr/)
 
@@ -25,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/dhirajkr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhirajkr0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhirajkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhirajkr" height="30" width="40" /></a>
-<a href="https://medium.com/@dhirajs0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhirajs0" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@dhirajs0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhirajs0" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
